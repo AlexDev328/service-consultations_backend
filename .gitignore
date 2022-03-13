@@ -11,5 +11,5 @@ env/
 
 var/
 client
-*.sqllite3
+*.sqlite3
 static
