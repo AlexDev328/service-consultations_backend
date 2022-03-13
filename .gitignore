@@ -1,0 +1,15 @@
+# Node artifact files
+node_modules/
+dist/
+
+
+venv/
+env/
+
+# JetBrains IDE
+.idea/
+
+var/
+client
+*.sqllite3
+static
